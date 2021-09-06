@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LukeCrow
 - 👀 I’m interested in web develope
 - 🌱 I’m currently learning python, html, css e mysql
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
